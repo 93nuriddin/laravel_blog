@@ -1,2 +1,2 @@
 # laravel_blog
-This is laravel blog 
+This is laravel blog .
